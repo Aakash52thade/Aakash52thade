@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash Bawanthade</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Aakash52thade/Aakash52thade/assets/117812701/b1227f97-185e-4ad5-ab9a-80da0613f0b9)"/>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Aakash52thade/Aakash52thade/assets/117812701/67f4133d-adba-45bb-9bca-db4cbbef22a0)
+"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash52thade&label=Profile%20views&color=0e75b6&style=flat" alt="aakash52thade" /> </p>
 
